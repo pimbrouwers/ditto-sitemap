@@ -1,0 +1,13 @@
+{
+  "name": "ditt0-sitemap",
+  "version": "1.0.0",
+  "description": "Ditto Sitemap Middleware",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "fs-extra": "^4.0.3",
+    "sitemap": "^1.13.0"
+  }
+}
