@@ -1,13 +1,17 @@
 {
   "name": "ditt0-sitemap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ditto Sitemap Middleware",
   "main": "index.js",
   "scripts": {},
-  "author": "",
+  "author": "Pim Brouwers",
   "license": "GPL-3.0",
-  "dependencies": {
-    "fs-extra": "^4.0.3",
-    "sitemap": "^1.13.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimbrouwers/ditto-sitemap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pimbrouwers/ditto-sitemap/issues"
+  },
+  "homepage": "https://github.com/pimbrouwers/ditto-sitemap#readme"
 }
